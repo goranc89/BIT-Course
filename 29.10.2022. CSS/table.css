@@ -1,0 +1,43 @@
+.tabela {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.glavni {
+  background-color: red;
+  color: white;
+}
+
+.red1 {
+  height: 100px;
+}
+
+.red2 {
+  height: 100px;
+  background-color: grey;
+}
+
+.red3 {
+  height: 100px;
+}
+
+.red4 {
+  height: 100px;
+  background-color: grey;
+}
+
+.red5 {
+  height: 100px;
+}
+
+.red1:hover,
+.red2:hover,
+.red3:hover,
+.red4:hover,
+.red5:hover {
+  background-color: yellow;
+}

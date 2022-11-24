@@ -1,0 +1,64 @@
+.paragraph1 {
+  background-color: yellow;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: red;
+  /* padding: 20px 40px 20px 40px; */
+  width: 300px;
+  /* margin: 50px; */
+}
+
+.paragraph2 {
+  background-color: yellow;
+  border-width: 5px;
+  border-color: green;
+  border-style: solid;
+  /* padding: 50px; */
+  width: 400px;
+  /* margin-left: auto;
+    margin-right: auto; */
+    visibility: hidden;
+}
+
+.paragraph3 {
+  background-color: yellow;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: red;
+  /* padding-top: 60px;
+    padding-left: 70px;
+    padding-bottom: 80px;
+    padding-right: 90px; */
+  width: 200px;
+  /* margin-left: 100px; */
+  visibility: hidden;
+}
+
+p {
+  margin-right: 20px;
+  display: inline-block;
+}
+
+h1 {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;  
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: aquamarine;
+    color: salmon;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 10px 20px black;
+    border-radius: 7px;
+}
+
+/* 
+● Box Shadow
+
+
+○ Apply box shadow to the heading box
+● Rounded Corners
+○ Round the corners on the heading box (try different radiuses) */

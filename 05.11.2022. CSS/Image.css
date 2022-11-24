@@ -1,0 +1,16 @@
+.prviPut {
+  height: 200px;
+  float: right;
+}
+
+.drugiPut {
+  width: 200px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.treciPut {
+  width: 200px;
+  height: 200px;
+  float: left;
+}

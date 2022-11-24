@@ -1,0 +1,24 @@
+/* body {
+  background-image: url("https://wallpapercave.com/dwp1x/CkZmVMp.jpg");
+  background-attachment: fixed;
+} */
+
+/* body {
+  background-image: url(./retrowave-sunrise-reflection-clear-sky-4k.jpg);
+  background-repeat: no-repeat;
+  background-position: right, center;
+  background-attachment: fixed;
+} */
+
+body {
+  background-image: url("https://wallpapercave.com/dwp1x/CkZmVMp.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: cover;
+  background-size: cover;
+}
+/* Size
+● Modify the previous example
+● Make image stretch and cover the whole body
+● However, the image should not be deformed (aspect ratio has
+to be preserved) */
